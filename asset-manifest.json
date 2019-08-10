@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.9a52b317.chunk.css",
-    "main.js": "/static/js/main.b0e8b4d3.chunk.js",
-    "main.js.map": "/static/js/main.b0e8b4d3.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.d286d434.chunk.js": "/static/js/2.d286d434.chunk.js",
-    "static/js/2.d286d434.chunk.js.map": "/static/js/2.d286d434.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.c0bdf1942b2becc411ed44825a8c0ee2.js": "/precache-manifest.c0bdf1942b2becc411ed44825a8c0ee2.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.9a52b317.chunk.css.map": "/static/css/main.9a52b317.chunk.css.map",
-    "static/media/unseen.jpg": "/static/media/unseen.3d45b3b3.jpg"
+    "main.css": "/GameMemory/static/css/main.9a52b317.chunk.css",
+    "main.js": "/GameMemory/static/js/main.a2e40988.chunk.js",
+    "main.js.map": "/GameMemory/static/js/main.a2e40988.chunk.js.map",
+    "runtime~main.js": "/GameMemory/static/js/runtime~main.c2626e14.js",
+    "runtime~main.js.map": "/GameMemory/static/js/runtime~main.c2626e14.js.map",
+    "static/js/2.d286d434.chunk.js": "/GameMemory/static/js/2.d286d434.chunk.js",
+    "static/js/2.d286d434.chunk.js.map": "/GameMemory/static/js/2.d286d434.chunk.js.map",
+    "index.html": "/GameMemory/index.html",
+    "precache-manifest.a11956806944121dcead10bb2d2f516f.js": "/GameMemory/precache-manifest.a11956806944121dcead10bb2d2f516f.js",
+    "service-worker.js": "/GameMemory/service-worker.js",
+    "static/css/main.9a52b317.chunk.css.map": "/GameMemory/static/css/main.9a52b317.chunk.css.map",
+    "static/media/unseen.jpg": "/GameMemory/static/media/unseen.3d45b3b3.jpg"
   }
 }
